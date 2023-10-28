@@ -1,0 +1,16 @@
+#header{
+    height: 1000px;
+    background-image: url(./img/arkaplan.jpg);
+    background : linear-gradient( to top, rgba(0,0,0,0) 60%, rgba(0,0,0,8) 100% ),url(img/arkaplan.jpg); 
+}
+
+
+.başla form input::placeholder {
+color: white;
+}
+.başla{margin-top: 150px! important;}
+.cizgi{
+    height: 5px;
+    width: 100%;
+    background-color:#3a3a3a;
+}
